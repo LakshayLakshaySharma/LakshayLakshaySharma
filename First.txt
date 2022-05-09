@@ -1,0 +1,5 @@
+skip stageing area.
+this is a version 1 for this project, and this a a practise file for git tutorials
+this file is change by lakshay 
+this file i modified
+hfghfghfhgfhgfhjgjh
